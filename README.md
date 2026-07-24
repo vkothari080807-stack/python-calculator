@@ -7,7 +7,7 @@
 : Input validation using ValueError.
 : Continuous prompting until right input is entered.
 : Options to overwright previous values.
-: Interactive Command - Line interface.
+: Interactive Command - Line interface and User friendly.
 ## Features to Add -
 : Scientific calculator.
 : GUI using Tkinter.
