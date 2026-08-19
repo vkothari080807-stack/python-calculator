@@ -1,5 +1,5 @@
 # Python Calculator -
-: A simple calculator built using python with robust input validation.
+: A simple calculator built using python with robust input validation and correction.
 ## Features -
 : Basic arithmetic operations (Add , Sub , Div , Mul).
 <br>
